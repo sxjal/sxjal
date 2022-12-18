@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sajal</h1>
 <h3 align="center">The space between development and design is where I thrive.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sxjal" alt="sxjal" /></a> </p>
 
 - 🔭 I’m currently working on **Some projects on React**
 
