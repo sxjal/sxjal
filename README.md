@@ -2,13 +2,13 @@
 <h3 align="center">The space between development and design is where I thrive.</h3>
 
 
-- 🔭 I’m currently working on **Some projects on React**
+- 🔭 I’m currently working on **Some projects on Flutter**
 
-- 🌱 I’m currently learning **React Native and more of UI/UX**
+- 🌱 Currently learning **Advanced flutter UI**
 
 - 👨‍💻 All of my projects are available at [github.com/sxjal](github.com/sxjal)
 
-- 💬 Ask me about **C++, Flutter, PHP**
+- 💬 Ask me about **C++, Flutter, PHP, Fimga and many more**
 
 - 📫 How to reach me **sajalsahu8@gmail.com**
 
