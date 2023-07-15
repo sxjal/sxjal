@@ -18,7 +18,7 @@
 
 <table>
 <tr>
-        <th scope="row">   <h3 align="Right">Languages and Tools
+        <th scope="row">   <h3 align="Center">Languages and Tools
         </h3>
         </th>
         <td>
