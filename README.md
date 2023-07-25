@@ -34,5 +34,9 @@
 </table>  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sxjal&layout=compact&theme=tokyonight&locale=en )
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sxjal&theme=tokyonight-duo&hide_border=true&border_radius=2.5)](https://git.io/streak-stats) 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sxjal&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sxjal&theme=tokyonight-duo&hide_border=true&border_radius=2.5)
+
+
+
+![Sxjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sxjal&show_icons=true&theme=tokyonight)
