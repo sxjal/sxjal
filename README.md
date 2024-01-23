@@ -2,7 +2,7 @@
 <h3 align="center">The space between development and design is where I thrive.</h3>
 
 
-- 🌱 Currently learning **Advanced flutter UI**
+- 🌱 Currently using **Flutter**
 
 - 💬 Ask me about **C++, Flutter, PHP, Fimga and many more**
 
